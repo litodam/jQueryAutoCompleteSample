@@ -1,0 +1,32 @@
+﻿
+.ui-button { margin-left: -1px; }
+.ui-button-icon-only .ui-button-text { padding: 0.35em; } 
+.ui-autocomplete-input { margin: 0; padding: 0.48em 0 0.47em 0.45em; width: 200px; }
+.ui-corner-left {
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.ui-corner-right {
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.ui-widget 
+{    
+    font-family: "Segoe UI","Helvetica","Tahoma","Arial";
+    font-size: 15px;
+}
+
+.ui-autocomplete { font-size: 12px !important; }
+
+.ui-autocomplete-input {
+    margin: 0;    
+    padding: 0px 0px 0px 2px;
+    width: 200px;
+    height: 20px; 
+    line-height: 20px;    
+} 
+button.ui-button-icon-only {
+    height: 22px;        
+    top: 5.5px;
+    width: 1.8em;
+}
